@@ -24,7 +24,7 @@
     "@types/react-dom": "^19",
     "eslint": "^10",
     "eslint-config-next": "16.4.6",
-    "minimatch": "11.0.1",
+    "minimatch": "11.0.9",
     "postcss": "^8.5.33",
     "tailwindcss": "^4.3.5",
     "typescript": "^7"
