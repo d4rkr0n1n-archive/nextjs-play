@@ -27,5 +27,8 @@
     "postcss": "^8.5.32",
     "tailwindcss": "^4.3.5",
     "typescript": "^7"
+  },
+  "overrides": {
+    "minimatch": "11.0.1"
   }
 }
